@@ -20,7 +20,7 @@ de Microatividades (Parte 1) e a segunda, desenvolvimento de um App (Parte 2)
 
  - Especificação
 
-https://sway.cloud.microsoft/s/veoX3PzlNFANdKWA/embed
+(https://sway.cloud.microsoft/s/0ATSB44zhZMGtTAj/embed)
 
 
 - obs: cada microatividade esta sendo representada como um compomente
